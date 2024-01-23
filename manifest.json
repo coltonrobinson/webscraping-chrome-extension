@@ -1,0 +1,6 @@
+{
+    "manifest_version": 3,
+    "name": "Webscraper extension",
+    "description": "Allows data to be pulled from a webpage and stored in a file",
+    "version": "1.0"
+}
