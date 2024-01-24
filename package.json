@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "chrome-types": "^0.1.252"
+  },
+  "type": "module",
+  "dependencies": {
+    "messaging-api-slack": "^1.1.0"
   }
 }
